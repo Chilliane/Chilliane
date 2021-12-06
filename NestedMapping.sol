@@ -2,7 +2,7 @@ pragma solidity ^0.6.0;
 
 contract myContract{
 
-    // Nested Mappings
+    // Nested Mappings //Code would save votes under each of users eth addresses
     mapping(uint=>Votes) public votes;
     mapping(address=>mapping(uint=>Votes))public accountVotes;
 
