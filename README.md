@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chilliane
 - 👀 I’m interested in developing my programming skills 
-- 🌱 I’m currently learning javascript and solidity
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me contact@basilguevarra.me
 
